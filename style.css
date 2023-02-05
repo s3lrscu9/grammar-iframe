@@ -1,0 +1,53 @@
+span.content {
+    display: block;
+    margin-top: 35px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    font-size: 200%;
+}
+
+span.g {
+    font-weight: bold;
+    color: green;
+}
+
+span.y {
+    color: rgb(192, 192, 0);
+}
+
+span.type {
+    user-select: none;
+    font-size: 12px;
+    position: fixed;
+    top: 15px;
+    left: 15px;
+}
+
+span.method {
+    font-size: 15px;
+    width: 23px;
+    display: inline-block;
+    text-align: center;
+    background: palevioletred;
+    border-radius: 50%;
+}
+
+span.grammar {
+    font-size: 15px;
+    width: 23px;
+    display: inline-block;
+    text-align: center;
+    background: rgb(0, 192, 0);
+    border-radius: 50%;
+}
+
+.sub code {
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+.wrapper {
+    background-color: whitesmoke;
+    border: 2px solid #000000;
+    border-radius: 4px;
+}
