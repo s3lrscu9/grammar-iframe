@@ -4,6 +4,7 @@ span.content {
     margin-bottom: 5px;
     margin-left: 5px;
     font-size: 200%;
+    max-width: 600px;
 }
 
 span.g {
